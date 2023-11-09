@@ -1,5 +1,10 @@
-### Hi there 👋
+![我要睡大觉](https://img.shields.io/badge/我要-睡大觉-orange)
+![谁也别拦我](https://img.shields.io/badge/谁也-别拦我-orange)
+![把被子还给我](https://img.shields.io/badge/把被子-还给我-orange)
+![别忘了枕头](https://img.shields.io/badge/别忘了-枕头-orange)
 
+![Matteotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matteotti&count_private=true&show_icons=true&theme=tokyonight)
+![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 <!--
 **Matteotti/Matteotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
