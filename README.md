@@ -18,6 +18,7 @@
 -->
 ![Matteotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matteotti&count_private=true&show_icons=true&theme=tokyonight)
 <br>
+![Matteotti's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Matteotti&layout=compact&hide_border=false&langs_count=10&theme=tokyonight)
 <!--
 **Matteotti/Matteotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
